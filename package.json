@@ -1,0 +1,13 @@
+{
+  "name": "websocket-listener",
+  "version": "1.0.0",
+  "description": "A Node.js service to listen to a WebSocket and log data to Firebase.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^8.13.0"
+  }
+}
